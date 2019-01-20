@@ -1,0 +1,20 @@
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Debug\scrapping_with_kuto.exe.config
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Debug\scrapping_with_kuto.exe
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Debug\scrapping_with_kuto.pdb
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.csprojResolveAssemblyReference.cache
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.Form1.resources
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.Properties.Resources.resources
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.csproj.GenerateResource.Cache
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.csproj.CoreCompileInputs.cache
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.exe
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.pdb
+c:\users\kim too flex\source\repos\scrapping_with_kuto\scrapping_with_kuto\bin\Debug\Kuto.dll
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\bin\Debug\scrapping_with_kuto.exe.config
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.exe
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.pdb
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\bin\Debug\scrapping_with_kuto.exe
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\bin\Debug\scrapping_with_kuto.pdb
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.csprojResolveAssemblyReference.cache
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.Form1.resources
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.Properties.Resources.resources
+G:\PWindows\scrapping_with_kuto-master\scrapping_with_kuto\obj\Debug\scrapping_with_kuto.csproj.GenerateResource.Cache
